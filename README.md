@@ -1,6 +1,6 @@
 
 ```md
-# 📅 Monthly Calendar App  
+# 📅 Monthly Calendar  
 
 A simple and interactive **Monthly Calendar** built with **React + Vite**. This project allows users to navigate between months, select dates, and manage basic events.
 

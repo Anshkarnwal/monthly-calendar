@@ -52,6 +52,7 @@ A simple and interactive **Monthly Calendar** built with **React + Vite**. This 
    npm run build
    ```
 ## 🖼 Screenshots  
+live website: https://anshkarnwal.github.io/monthly-calendar/
 ### 📌 Calendar View  
  ![image](https://github.com/user-attachments/assets/cce36594-4863-40b0-abaf-17b28be6388d)
 ![image](https://github.com/user-attachments/assets/12fec2a2-036b-45f1-9781-0651f9203123)
